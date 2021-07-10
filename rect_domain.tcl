@@ -26,7 +26,7 @@ pfset ComputationalGrid.DX	                 1.0
 pfset ComputationalGrid.DY                       1.0
 pfset ComputationalGrid.DZ	                 1.0
 
-pfset ComputationalGrid.NX                       100
+pfset ComputationalGrid.NX                       10
 pfset ComputationalGrid.NY                       2
 pfset ComputationalGrid.NZ                       20
 
